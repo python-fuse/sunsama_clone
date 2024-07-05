@@ -1,0 +1,18 @@
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M64 16C64 10.4772 59.5228 6 54 6H14C8.47715 6 4 10.4772 4 16V56C4 61.5228 8.47715 66 14 66H54C59.5228 66 64 61.5228 64 56V16Z" fill="#5F9FFF"/>
+<rect x="14" y="2" width="9" height="10" rx="3" fill="#202228"/>
+<rect x="45" y="2" width="9" height="10" rx="3" fill="#202228"/>
+<rect x="33" y="19" width="2" height="36" fill="#202228"/>
+<rect x="32" y="19" width="4" height="36" fill="#202228"/>
+<rect x="45.3135" y="22.8574" width="4" height="36" transform="rotate(45 45.3135 22.8574)" fill="#202228"/>
+<rect x="52" y="35" width="4" height="36" transform="rotate(90 52 35)" fill="#202228"/>
+<rect x="48.1426" y="48.3135" width="4" height="36" transform="rotate(135 48.1426 48.3135)" fill="#202228"/>
+<circle cx="34" cy="19" r="3" fill="#202228"/>
+<circle cx="46.7275" cy="24.2719" r="3" transform="rotate(45 46.7275 24.2719)" fill="#202228"/>
+<circle cx="52" cy="37" r="3" fill="#202228"/>
+<circle cx="46.7275" cy="49.728" r="3" transform="rotate(45 46.7275 49.728)" fill="#202228"/>
+<circle cx="16" cy="37" r="3" fill="#202228"/>
+<circle cx="21.2725" cy="24.2719" r="3" transform="rotate(45 21.2725 24.2719)" fill="#202228"/>
+<circle cx="34" cy="55" r="3" fill="#202228"/>
+<circle cx="21.2725" cy="49.728" r="3" transform="rotate(45 21.2725 49.728)" fill="#202228"/>
+</svg>
